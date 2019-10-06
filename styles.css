@@ -1,3 +1,41 @@
-#navbar{
-    font-size: 0fr
+/* ------------------------   Netflix Nav Bar     ---------------------------- */
+
+.container {
+    width: 80%;
+    margin: 0 auto;
 }
+body {
+    margin: 0;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 25px;
+    display: inline;
+}
+#navbarlist{
+    list-style-type: none;
+
+
+}
+.right {
+    float:right;
+    list-style-type: none;
+    border-style: solid;
+    border-color: red;
+    padding: 7px;
+    fill-rule: red;
+    font-size: 17px;
+    background-color: red;
+    margin-right: 60px;
+    
+    
+
+}
+.left {
+    float:left;
+    list-style-type: none;
+    font-size: 50px;
+    
+}
+
+
