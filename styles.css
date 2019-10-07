@@ -27,6 +27,7 @@ body {
     font-size: 17px;
     background-color: red;
     margin-right: 60px;
+    border-radius: 5px;
     
     
 
@@ -35,13 +36,14 @@ body {
     float:left;
     list-style-type: none;
     font-size: 50px;
+    font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    
     
 }
 #herosection {
     color:white;
     text-align: center;
-    
-
+    margin-top: 20px;
 }
 
 
