@@ -1,4 +1,4 @@
-/* ------------------------   Netflix Nav Bar     ---------------------------- */
+
 
 .container {
     width: 80%;
@@ -37,7 +37,7 @@ body {
     list-style-type: none;
     font-size: 50px;
     font-family: 'Netflix Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    
+/* ------------------------   Netflix Nav Bar     ---------------------------- */
     
 }
 #herosection {
@@ -53,3 +53,14 @@ body {
 }
 
 
+/* ------------------------   Hero Section     ---------------------------- */
+#nextsection {
+color:white;
+margin: 300px;
+}
+.h3{
+    font-size: 23px;
+}
+.tv {
+  float: right;
+} 
