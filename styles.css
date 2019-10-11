@@ -56,11 +56,26 @@ body {
 /* ------------------------   Hero Section     ---------------------------- */
 #nextsection {
 color:white;
-margin: 300px;
+margin: 200px;
+align-items: baseline;
+padding: 50px;
 }
 .h3{
     font-size: 23px;
+    position: relative;
+    vertical-align: left;
 }
 .tv {
   float: right;
+  text-align: center;
+  position: relative;
+  vertical-align: right;
+  
 } 
+
+#thirdsection {
+
+    
+}
+
+
