@@ -73,9 +73,27 @@ padding: 50px;
   
 } 
 
-#thirdsection {
+.h1 {
 
-    
+    color: white;
+    text-align: center;
+
+}
+.h3 {
+    color: white;
+    text-align: center;
+}
+.phone {
+    float: left;
 }
 
+.h14 {
+    float: left;
+    color: white;
+}
+.h34 {
+    color: white;
+    float: left;
+
+}
 
