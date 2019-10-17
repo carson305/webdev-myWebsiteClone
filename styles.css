@@ -74,18 +74,25 @@ padding: 50px;
   
 } 
 
-.container {
+.h11 {
 
     color: white;
-    float: right;
+    
     padding: 5px;
 
 }
-.h3 {
+.h33 {
     color: white;
-    float: right;
+    
 }
 .phone {
-    float: left;
+    
 }
-
+#image {
+    float:left;
+    bottom: 100px;
+}
+#text {
+    
+    margin-left: 750px;
+}
