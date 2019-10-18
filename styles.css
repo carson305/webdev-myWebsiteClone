@@ -112,17 +112,54 @@ left: 50px;
 }
 .faqlist {
 list-style-type: none;
-padding-right: 20px;
-border: 100px;
-margin: 100px;
+padding-right: 200px;
+border: 500px;
+margin-left: 100px;
+margin: 300px;
 border-style:solid;
 border-width: 20px;
 border-color: grey;
 background-color: grey;
+text-align: center;
+height: 200px;
+
 }
 
 .faqheader {
     text-align: center;
     position: relative;
     left: 500px;
+}
+/* ------------------------   Footer ---------------------------- */
+
+
+
+
+.footerlist {
+    list-style-type: none;
+    color: white;
+}
+.footerlist2 {
+    float: left;
+    color: white;
+    position: relative;
+    list-style-type: none;
+    left: 400px;
+    bottom: 180px;
+}
+.footerlist3 {
+list-style-type: none;
+color:white;
+position: relative;
+left: 600px;
+bottom: 160px;
+}
+.footerlist4 {
+list-style-type: none;
+color:white;
+position: relative;
+float: right;
+bottom: 320px;
+right: 200px;
+
 }
