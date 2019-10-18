@@ -87,4 +87,21 @@ padding: 50px;
     color: white;
     bottom: 380px;
     position: relative;
+}
+    
 
+#texts {
+float: right;
+color: white;
+position: relative;
+bottom: 300px;
+right: 165px;
+
+}
+#images {
+position: relative;
+top: 100px;
+right: 100px;
+left: 50px;
+
+}
